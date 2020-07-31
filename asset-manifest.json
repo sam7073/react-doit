@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-doit/static/css/main.b37ef742.chunk.css",
+  "main.css": "/react-doit/static/css/main.6dee7bd5.chunk.css",
   "main.js": "/react-doit/static/js/main.8dcbed42.chunk.js",
   "main.js.map": "/react-doit/static/js/main.8dcbed42.chunk.js.map",
   "runtime~main.js": "/react-doit/static/js/runtime~main.669637e1.js",
@@ -7,7 +7,7 @@
   "static/js/2.cdefec29.chunk.js": "/react-doit/static/js/2.cdefec29.chunk.js",
   "static/js/2.cdefec29.chunk.js.map": "/react-doit/static/js/2.cdefec29.chunk.js.map",
   "index.html": "/react-doit/index.html",
-  "precache-manifest.a13c7e88c2196820a1faf6edaae6d153.js": "/react-doit/precache-manifest.a13c7e88c2196820a1faf6edaae6d153.js",
+  "precache-manifest.8f84a0809a3609f9961fa3254dbcccbc.js": "/react-doit/precache-manifest.8f84a0809a3609f9961fa3254dbcccbc.js",
   "service-worker.js": "/react-doit/service-worker.js",
-  "static/css/main.b37ef742.chunk.css.map": "/react-doit/static/css/main.b37ef742.chunk.css.map"
+  "static/css/main.6dee7bd5.chunk.css.map": "/react-doit/static/css/main.6dee7bd5.chunk.css.map"
 }
