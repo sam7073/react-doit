@@ -5,7 +5,7 @@ export default function Input(props, context) {
   return (
     <div>
       {label}
-      <input name={name} onChange={props.onChange}></input>
+      <input name={props.name} onChange={props.onChange}></input>
     </div>
   );
 }
