@@ -1,6 +1,7 @@
 import { configure, setAddon } from "@storybook/react";
 import interopRequireDefault from "babel-runtime/helpers/interop-require-default";
 import JSXAddon from "storybook-addon-jsx";
+import "../src/App.css";
 
 function loadStories() {
   const context = require.context("../src/story", true, /Story\.jsx$/);
