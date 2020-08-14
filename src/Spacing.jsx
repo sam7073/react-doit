@@ -15,7 +15,7 @@ export const propTypes = {
 class Spacing extends PureComponent {
   render() {
     const {
-      childern,
+      children,
       top,
       left,
       right,
