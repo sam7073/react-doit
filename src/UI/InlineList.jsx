@@ -16,7 +16,7 @@ class InlineList extends PureComponent {
       <div
         {...css(
           styles.wrapper,
-          align == "center" && styles.alignCenter,
+          align === "center" && styles.alignCenter,
           align === "right" && styles.alignRight,
           verticalAlign === "top" && styles.verticalAlignTop,
           verticalAlign === "bottom" && styles.verticalAlignBottom

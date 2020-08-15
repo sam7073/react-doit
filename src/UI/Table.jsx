@@ -5,7 +5,6 @@ import { withStyles, css, withStylesPropTypes } from "./withStyles";
 class Table extends PureComponent {
   render() {
     const { styles, children } = this.props;
-    console.log(children);
     return <table {...css(styles.table)}>{children}</table>;
   }
 }
