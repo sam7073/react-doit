@@ -1,13 +1,13 @@
 {
   "main.css": "/react-doit/static/css/main.5a222c10.chunk.css",
-  "main.js": "/react-doit/static/js/main.61143968.chunk.js",
-  "main.js.map": "/react-doit/static/js/main.61143968.chunk.js.map",
+  "main.js": "/react-doit/static/js/main.f985cc08.chunk.js",
+  "main.js.map": "/react-doit/static/js/main.f985cc08.chunk.js.map",
   "runtime~main.js": "/react-doit/static/js/runtime~main.669637e1.js",
   "runtime~main.js.map": "/react-doit/static/js/runtime~main.669637e1.js.map",
-  "static/js/2.6bcabd0a.chunk.js": "/react-doit/static/js/2.6bcabd0a.chunk.js",
-  "static/js/2.6bcabd0a.chunk.js.map": "/react-doit/static/js/2.6bcabd0a.chunk.js.map",
+  "static/js/2.1f807708.chunk.js": "/react-doit/static/js/2.1f807708.chunk.js",
+  "static/js/2.1f807708.chunk.js.map": "/react-doit/static/js/2.1f807708.chunk.js.map",
   "index.html": "/react-doit/index.html",
-  "precache-manifest.f3eb4e2898a4c82a4305e76c7b3398a8.js": "/react-doit/precache-manifest.f3eb4e2898a4c82a4305e76c7b3398a8.js",
+  "precache-manifest.9f3e8c8f3c5f365194ecdaec52db526e.js": "/react-doit/precache-manifest.9f3e8c8f3c5f365194ecdaec52db526e.js",
   "service-worker.js": "/react-doit/service-worker.js",
   "static/css/main.5a222c10.chunk.css.map": "/react-doit/static/css/main.5a222c10.chunk.css.map"
 }
