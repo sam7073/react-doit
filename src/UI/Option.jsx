@@ -15,7 +15,7 @@ class Option extends PureComponent {
 
 Option.propTypes = {
   disabled: PropTypes.bool,
-  value: PropTypes.string.isRequired,
+  value: PropTypes.string,
   label: PropTypes.string,
 };
 

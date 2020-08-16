@@ -4,17 +4,41 @@
       "id": 1,
       "code": "BTX",
       "name": "비트코인(BTX)",
-      "totalPrice": 12391230000,
-      "currentPrice": 1020000,
+      "totalPrice": "12391230000원",
+      "currentPrice": "1020000원",
       "datetime": "2019/01/20 08:23:22"
     },
     {
       "id": 2,
       "code": "RXP",
       "name": "리플(RXP)",
-      "totalPrice": 1230000,
-      "currentPrice": 20000,
+      "totalPrice": "1230000원",
+      "currentPrice": "20000원",
       "datetime": "2019/01/20 07:23:22"
+    },
+    {
+      "currentPrice": "30,000원",
+      "amount": "12",
+      "name": "훈래코인",
+      "id": 3
+    },
+    {
+      "currentPrice": "30,000원",
+      "amount": "2",
+      "name": "훈래코인",
+      "id": 4
+    },
+    {
+      "currentPrice": "216,000원",
+      "amount": "3",
+      "name": "이더리움",
+      "id": 5
+    },
+    {
+      "currentPrice": "216,000원",
+      "amount": "2",
+      "name": "이더리움",
+      "id": 6
     }
   ]
 }

@@ -1,7 +1,7 @@
 import React, { PureComponent } from "react";
 import Heading from "../../UI/Heading";
 import Card from "../../UI/Card";
-import TransactionSearchFilter from "./TransactionSearchFilter";
+import TransactionSearchFilterContainer from "../../containers/main/TransactionsSearchFilterContainer";
 import TransactionTable from "./TransactionTable";
 import Api from "../../Api";
 
@@ -17,7 +17,7 @@ class TransactionList extends PureComponent {
       <div>
         <Heading level={3}>거래 현황</Heading>
         <Card vertical={4} horizontal={4}>
-          <TransactionSearchFilter />
+          <TransactionSearchFilterContainer />
         </Card>
         <Card>
           <TransactionTable transactions={transactions} />

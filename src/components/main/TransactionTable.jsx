@@ -39,7 +39,7 @@ class TransactionTable extends PureComponent {
 TransactionTable.propTypes = {
   transactions: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.string,
+      id: PropTypes.number,
       name: PropTypes.string,
       totalPrice: PropTypes.string,
       currentPrice: PropTypes.string,
