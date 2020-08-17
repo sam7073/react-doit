@@ -12,7 +12,7 @@ export default class CoinApp extends PureComponent {
   render() {
     return (
       <Provider store={this.store}>
-        <Router>
+        <Router basename="/react-doit/">
           <ModalProvider>
             <AppLayout>
               <Switch>
